@@ -1,11 +1,16 @@
 _repo: Mr-Durant-of-Salt-Lake-City-That-Mormon_56685
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 56685-h/images/cover.jpg
 creator:
   author:
     agent_name: Rich, Ben E.
     gutenberg_agent_id: '48980'
     url: http://www.gutenberg.org/2009/agents/48980
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56685#Mr-Durant-of-Salt-Lake-City-That-Mormon
 gutenberg_issued: '2018-03-06'
 gutenberg_type: Text
 identifiers:
